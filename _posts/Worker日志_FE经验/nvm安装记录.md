@@ -158,7 +158,8 @@ nrm是一个镜像源管理，通过
 npm install nrm -g
 ```
 
-这里的全局，是该node版本的全局，可以看下图的安装文件夹的位置。[nrm.png](https://postimg.cc/r0kXcvFS)
+这里的全局，是该node版本的全局，可以看下图的安装文件夹的位置。
+<!-- [nrm.png](https://postimg.cc/r0kXcvFS) -->
 <!-- 
 <img src="/Users/zhongdaxing1/Library/Application Support/typora-user-images/image-20230904202441020.png" alt="image-20230904202441020" style="zoom:25%;" /> -->
 
