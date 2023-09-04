@@ -10,7 +10,7 @@ tags:
     - 前端
 ---
 
-[webpack-chap01.png](https://postimg.cc/QFcgdnTM)
+<!-- [webpack-chap01.png](https://postimg.cc/QFcgdnTM) -->
 
 
 ## chapter01:入门
@@ -116,7 +116,7 @@ npm i D webpack
 * 终端运行 ```  node_modules/.bin/webpack ```，如果没有安装webpack cli，会提示安装cli，安装后继续执行命令
 * 将 index.html 文件使用浏览器打开，会显示 ```hello，webpack```
 
-[webpack-01-case-01.png](https://postimg.cc/sBv0Hv9t)
+<!-- [webpack-01-case-01.png](https://postimg.cc/sBv0Hv9t) -->
 
 ### 四，使用loader
 Webpack 不原生支持解析 css 文件。 要支持非JavaScript类型的文件，则需要使用 Webpack的Loader机制。
@@ -129,7 +129,7 @@ Webpack 不原生支持解析 css 文件。 要支持非JavaScript类型的文�
  
  注：webpack 有些版本可能不支持 minimize：true，去掉即可构建成功。
  
- [webpack-01-case-02.png](https://postimg.cc/Z9MmRWLc)
+ <!-- [webpack-01-case-02.png](https://postimg.cc/Z9MmRWLc) -->
  
 ### 五，使用plugin
 Plugin是用来扩展 Webpack功能的，通过在构建流程里注入钩子实现，它为 Webpack带来了很大的灵活性。
@@ -140,7 +140,7 @@ Plugin是用来扩展 Webpack功能的，通过在构建流程里注入钩子实
  * 调整 index.html 文件 和 webpack 配置文件，
  * 终端运行 webpack 命令
 
-[webpack-01-case-03.png](https://postimg.cc/R6z8L0t7)
+<!-- [webpack-01-case-03.png](https://postimg.cc/R6z8L0t7) -->
 
 ### 六，使用 DevServer
 webpack原生支持 
@@ -173,7 +173,7 @@ module.exports = {
  ```
  * 终端运行 ``` node_modules/.bin/webpack-dev-server ```
 
-[webapck-01-case-04.png](https://postimg.cc/XXfLgjVL)
+<!-- [webapck-01-case-04.png](https://postimg.cc/XXfLgjVL) -->
 
 ### 七，核心概念
 Webpack 有以下几个核心概念，

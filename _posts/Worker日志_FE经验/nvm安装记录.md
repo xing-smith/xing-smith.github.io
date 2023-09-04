@@ -50,9 +50,9 @@ sudo rm -rf /opt/local/lib/node_modules
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
 
-[nvm.png](https://postimg.cc/YjQ06HWw)
-
-<img src="/Users/zhongdaxing1/Library/Application Support/typora-user-images/image-20230904180203857.png" alt="image-20230904180203857" style="zoom:25%;" />
+<!-- [nvm.png](https://postimg.cc/YjQ06HWw) -->
+<!-- 
+<img src="/Users/zhongdaxing1/Library/Application Support/typora-user-images/image-20230904180203857.png" alt="image-20230904180203857" style="zoom:25%;" /> -->
 
 
 
@@ -159,8 +159,8 @@ npm install nrm -g
 ```
 
 这里的全局，是该node版本的全局，可以看下图的安装文件夹的位置。[nrm.png](https://postimg.cc/r0kXcvFS)
-
-<img src="/Users/zhongdaxing1/Library/Application Support/typora-user-images/image-20230904202441020.png" alt="image-20230904202441020" style="zoom:25%;" />
+<!-- 
+<img src="/Users/zhongdaxing1/Library/Application Support/typora-user-images/image-20230904202441020.png" alt="image-20230904202441020" style="zoom:25%;" /> -->
 
 参考链接：
 
