@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      深入浅出 webapck & webapck 文档
+title:      深入浅出 webapck第三章
 subtitle:   chaper_03: 实战
 date:       2023-09-01
 author:     forwardZ

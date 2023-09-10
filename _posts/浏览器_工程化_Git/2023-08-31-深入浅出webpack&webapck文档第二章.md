@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      深入浅出webapck第二章 & webapck 文档
+title:      深入浅出webapck第二章
 subtitle:   chaper_02: 配置
 date:       2023-08-31
 author:     forwardZ
